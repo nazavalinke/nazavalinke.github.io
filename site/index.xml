@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sites on В гостях у деда Пафнутия</title>
+    <link>https://nazavalinke.github.io/site/</link>
+    <description>Recent content in Sites on В гостях у деда Пафнутия</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language><atom:link href="https://nazavalinke.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Рассказы</title>
+      <link>https://nazavalinke.github.io/site/content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nazavalinke.github.io/site/content/</guid>
+      <description>Про девушку Катю  Катя добрая и отзывчивая девушка, студентка, красавица, умница. Занята обычными с виду вещами, вешает люстру, худеет, чистит карму, общается с богами и электриками.
+ О здоровом образе жизни и красоте. Знакомство с Катей, её обычным завтраком и заботами. Поиск пути к сердцу мужчины и дельные советы.
+Утро. Об утреннем просыпании, благородном животном и всё-всё-всё о комнатной люстре.
+Доброе дело. Как Зевс занимался добрыми делами, встречался с Аресом и Петровичем, и причём тут оказалась Катина люстра.</description>
+    </item>
+    
+    <item>
+      <title>О блоге</title>
+      <link>https://nazavalinke.github.io/site/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nazavalinke.github.io/site/about/</guid>
+      <description>Приветствую, друзья, знакомые, коллеги и посетители этого блога!
+Зовут меня Денис Каплин. Одним из моих увлечений является написание рассказов, для чего, собственно, и пришлось завести этот небольшой сайт.
+Про профессии я администратор баз данных PostgreSQL, Oracle Database и Linux систем. Интересуюсь направлениями виртуализации, высокой доступности (HA), различными дистрибутивами Linux как серверными, так и для настольных компьютеров, программным обеспечением под Linux и macOS, микрокомпьютерами (сейчас это Raspberry Pi) и разработкой (Python и, не поверите, Bash).</description>
+    </item>
+    
+  </channel>
+</rss>
